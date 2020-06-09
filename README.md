@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 <html>
   <head>
     <meta http-equiv="refresh" content="0; url=https://taherselim.github.io/published_pages/page_zhome.html">

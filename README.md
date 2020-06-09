@@ -1,5 +1,5 @@
 ---
-permalink: /7amada_test.page_linux.html
+permalink: page_linux.html
 ---
 ## Welcome to GitHub Pages
 

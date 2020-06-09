@@ -1,6 +1,8 @@
----
-permalink: page_linux.html
----
+<html>
+  <head>
+    <META http-equiv="refresh" content="0;URL=/site/index.html">
+  </head>
+</html>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/taherselim/7amada_test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

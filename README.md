@@ -1,6 +1,6 @@
 <html>
   <head>
-    <META http-equiv="refresh" content="0;URL=/site/index.html">
+    <META http-equiv="refresh" content="0;URL=/published_pages/page_zhome.html">
   </head>
 </html>
 ## Welcome to GitHub Pages

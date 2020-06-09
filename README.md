@@ -1,6 +1,6 @@
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=published_pages/page_zhome.html">
+    <meta http-equiv="refresh" content="0; url=https://taherselim.github.io/published_pages/page_zhome.html">
   </head>
 </html>
 ## Welcome to GitHub Pages

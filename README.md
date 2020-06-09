@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Blogging Like a Hacker
 permalink: /published_pages/page_zhome.html
 ---
 ## Welcome to GitHub Pages
